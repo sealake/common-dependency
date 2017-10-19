@@ -12,7 +12,7 @@
 
 ```
 <parent>
-    <groupId>com.etongdai</groupId>
+    <groupId>net.sealake</groupId>
     <artifactId>common-dependency</artifactId>
     <version>${common-dependency.version}</version>
 </parent>
@@ -23,7 +23,7 @@
 ```
 <!-- 以 common-build 为parent是可选的 -->
 <parent>
-    <groupId>com.etongdai</groupId>
+    <groupId>net.sealake</groupId>
     <artifactId>common-build</artifactId>
     <version>${common-build.version}</version>
 </parent>
@@ -31,7 +31,7 @@
 <dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>com.etongdai</groupId>
+            <groupId>net.sealake</groupId>
             <artifactId>common-dependency</artifactId>
             <version>${common-dependency.version}</version>
             <type>pom</type>
@@ -42,5 +42,5 @@
 ```
 
 ## References
-1. [common-build项目](git@gitlab.etongdai.org:infra/common-build.git)
+1. [common-build项目]()
 
