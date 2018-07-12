@@ -1,6 +1,6 @@
 # common-dependency
 
-当前版本 | `1.5.4.RELEASE` 
+当前版本 | `1.5.6.RELEASE`
 --- | ---
 
 公共依赖项目。本项目中集成了业务开发常用的库、框架的依赖，并对版本冲突的依赖进行了处理。
@@ -42,5 +42,5 @@
 ```
 
 ## References
-1. [common-build项目]()
+1. [common-build项目](https://github.com/sealake/common-build)
 
